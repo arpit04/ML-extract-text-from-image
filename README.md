@@ -4,6 +4,7 @@ you need to install tesseract-ocr first
 https://github.com/tesseract-ocr/tesseract/wiki
 
 pip install pytesseract
+pip install NLTK
 
 PIL and pytesseract
 
@@ -12,5 +13,9 @@ To extract text from the image we can use the PIL and pytesseract libraries. We 
 NLP
 
 Natural language processing (NLP) is a category of machine learning that deals with analyzing and generating text, speech, and other kinds of natural language data. Google objective with natural language APIs is to break down language barriers and allow you to serve a greater, more global audience in a meaningful and personal way.
+
+NLTK
+
+NLTK is one of the leading platforms for working with human language data and Python, the module NLTK is used for natural language processing. NLTK is literally an acronym for Natural Language Toolkit.
 
 Thank you
