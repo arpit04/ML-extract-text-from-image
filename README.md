@@ -19,4 +19,4 @@ Natural language processing (NLP) is a category of machine learning that deals w
 
 NLTK is one of the leading platforms for working with human language data and Python, the module NLTK is used for natural language processing. NLTK is literally an acronym for Natural Language Toolkit.
 
-Thank you
+Thank you 🎉
